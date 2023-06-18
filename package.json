@@ -4,6 +4,8 @@
   "scripts": {
     "start": "node src/index.js",
     "ig": "node src/getPosts.js",
+    "tst": "node src/tst.js",
+    "py": "python3 src/pytest.py",
     "deploy-commands": "node src/utils/deploy-commands.js"
   },
   "engines": {
